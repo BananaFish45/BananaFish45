@@ -8,6 +8,7 @@ paulnhlapo4@gmail.com
 linkedIn Paul Nhlapo
 twitter Straw_hat
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BananaFish45)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 BananaFish45/BananaFish45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
